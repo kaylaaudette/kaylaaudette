@@ -7,12 +7,22 @@
 
 ## Laboratory Techniques
 
-- **Molecular Techniques:** Polymerase Chain Reaction (PCR), Gel Electrophoresis, Western Blotting
-- **Genetics:** Gal4/UAS, RNAi (RNA Interference), LexA/LexAop
-- ***Drosophila* Techniques:** In Vivo Calcium Imaging, Optogenetics, Chemogenetics, Anatomy/Neuroanatomy, Brain dissection Ventral Nerve Cord(VNC) dissection, Proboscis dissection, Taste/Feeding Assays, Fly Liquid-Food Interaction Counter(FLIC), *Drosophila* Feeding Monitor(DFM), *Drosophila* Activity Monitoring System(DAM), Breed and Maintain population. 
-- **Imaging and Microscopy:** Confocal Microscopy--Leica SP5 II Confocal microscope and a 3i Spinning disc Confocal station, Immunohistochemistry, primary and secondary antibody handling, confocal image processing tools 
-- **Chromatography and Spectroscopy:** Thin Layer Chromatography (TLC), Affinity Column Chromatography, Infrared Spectroscopy
-- **Animal Handling:** Anesthetize Animals, Sheep Neuroanatomy
+**Molecular Biology:** PCR, gel electrophoresis, Western blotting
+**Genetics:** Gal4/UAS, RNAi, LexA/LexAop systems
+**Drosophila Neurobiology:**
+
+In vivo calcium imaging
+Optogenetics & chemogenetics
+Behavioral assays (feeding, proboscis, egg-laying)
+FLIC, DFM, DAM systems
+Brain, VNC, and tissue dissections
+Colony maintenance and breeding
+
+**Imaging & Microscopy:**
+Confocal microscopy (Leica SP5 II, 3i spinning disk), immunohistochemistry, antibody staining, confocal image analysis
+
+**Other Techniques:**
+TLC, affinity chromatography, IR spectroscopy, animal handling, neuroanatomy (including sheep brain dissections)
 
 ## Contributions and Collaborations
 
