@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kayla Audette</h1>
-<p align="center"> I’m a neuroscience researcher transitioning into computational biology, with experience analyzing imaging and behavioral datasets using R and Python.My work focuses on building reproducible data analysis workflows and extracting quantitative insights from complex biological data.
+<p align="center"> I’m a neuroscience researcher transitioning into computational biology, with experience analyzing imaging and behavioral datasets using R and Python. My work focuses on building reproducible data analysis workflows and extracting quantitative insights from complex biological data.
 
   
 ## Technical Skills
