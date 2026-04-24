@@ -8,6 +8,7 @@
 ## Laboratory Techniques
 
 **Molecular Biology:** PCR, gel electrophoresis, Western blotting
+
 **Genetics:** Gal4/UAS, RNAi, LexA/LexAop systems
 **Drosophila Neurobiology:**
 
